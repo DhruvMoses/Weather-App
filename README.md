@@ -1,1 +1,1 @@
-Visit the website here: https://vercel.com/dhruv-moses-projects/weather-app
+Visit the website here: https://weather-app-dhruv-moses-projects.vercel.app/
